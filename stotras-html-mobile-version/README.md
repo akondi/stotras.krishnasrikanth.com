@@ -2,7 +2,7 @@ Introduction
 -------------
 These are simple .html pages that can run on mobile. Start from index.html.
 
-On Android, place the downloaded >stotras-html-mobile-version< folder and place it on your memory card. Then access index.html from browser. 
+On Android, place the downloaded >stotras-html-mobile-version< folder on your phone's memory card. Then access index.html from browser. 
 
 E.g. file:///sdcard/stotras/index.html
 
